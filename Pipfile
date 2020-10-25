@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+holoviews = "*"
+matplotlib = "*"
+seaborn = "*"
+sklearn = "0.20.0"
+scipy = "1.1.0"
+pandas = "0.23.4"
+numpy = "1.14.5"
+shap = "*"
+xgboost = "*"
+joblib = "*"
+boto3 = "*"
+sagemaker = "*"
+
+[requires]
+python_version = "3.7"
