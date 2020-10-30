@@ -2,8 +2,6 @@
 
 aws --version
 
-
-
 aws ecr get-login-password \
     --region $AWS_REGION \
 | docker login \

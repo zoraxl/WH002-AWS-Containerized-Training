@@ -1,7 +1,0 @@
-{
-  "best_params": {
-    "n_estimators": 500
-  },
-  "test_score": 0.14655285390965905,
-  "valid_score": -0.1525117740687361
-}
